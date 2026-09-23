@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2ac17d060cef0fc22874ee0b",
+  "owner": "mfjpfmd",
+  "repo": "page-bf83924cd51e5a1ea20aca3b",
+  "title": "卷王机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bf83924cd51e5a1ea20aca3b",
+      "a": "卷王机场",
+      "b": "2027最新官网",
+      "entity": "卷王机场",
+      "brand": "卷王机场",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5772354ddd6a988b0860fead7cafd18ad6878660d07ade3cac9811630a85ac70",
+      "content": {
+        "primary_entity": "卷王机场",
+        "keyword1": "卷王机场",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "选择套餐对比设备数，再按客户端文档导入订阅。",
+          "AI_CLOSING_TITLE": "订阅从选择套餐开始",
+          "AI_DESCRIPTION": "，卷王机场以三档订阅覆盖个人与团队的上网需求。基础版每月 100GB 流量、3 台设备在线，适合日常浏览与轻量视频；旗舰版每月 300GB 流量、5 台设备在线，升级全节点流媒体解锁与 IPLC 专线游戏加速；团队版每月 1000GB 流量、支持 20 台设备与定制路由。三档均提供月付与年付选项，年付按约十个月价格结算，便于长期订阅。",
+          "AI_FEATURES_INTRO": "围绕流量、设备与节点线路三项核心差异进行订阅选择。",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，月付与年付对应不同流量预算。",
+          "AI_FEATURE_TITLE_1": "按月流量定档",
+          "AI_FEATURE_TEXT_2": "3 台、5 台、20 台设备的在线限制区分明显，家庭共享建议从旗舰版起步。",
+          "AI_FEATURE_TITLE_2": "按设备数量选版本",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速，团队版提供 VIP 高带宽节点与定制路由。",
+          "AI_FEATURE_TITLE_3": "按线路需求考虑",
+          "AI_GUIDE_INTRO": "三步完成服务选择与订阅配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "卷王机场提供基础版、旗舰版与团队版三档订阅，月流量从 100GB 到 1000GB，设备数从 3 台到 20 台，年付方案按约十个月价格结算，方便长期使用。",
+          "AI_HERO_SUBTITLE": "三档订阅覆盖个人与团队",
+          "AI_HIGHLIGHT_1": "每月 100GB 至 1000GB 流量",
+          "AI_HIGHLIGHT_2": "在线设备 3 台至 20 台",
+          "AI_HIGHLIGHT_3": "年付低至约十个月价格",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按流量与设备数选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按需要比较三档套餐的流量、设备数与线路能力，确定月付或年付周期。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_2": "确认操作系统与客户端类型，查看当前设备数是否在套餐允许范围内。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "获取订阅链接后，在对应客户端里依照其文档导入配置并连接节点。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "卷王机场订阅选择",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "卷王机场套餐可以中途更换吗？",
+          "AI_FAQ_ANSWER_1": "可联系支持了解升级或变更方式，不同版本权益按当前订阅周期计算。",
+          "AI_FAQ_QUESTION_2": "一个账号最多几台设备同时用？",
+          "AI_FAQ_ANSWER_2": "基础版 3 台，旗舰版 5 台，团队版 20 台，超出可能影响连接。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付价格更低，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_FAQ_QUESTION_4": "100GB 流量够日常使用吗？",
+          "AI_FAQ_ANSWER_4": "基础版适合浏览与轻度视频，若常看高清流媒体可考虑旗舰版 300GB。",
+          "AI_FAQ_QUESTION_5": "团队版支持定制路由吗？",
+          "AI_FAQ_ANSWER_5": "团队版提供企业定制路由与专属客户经理，适合多设备协同场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "shadowrocketxo.com",
+    "host": "shadowrocketxo.com"
+  },
+  "file_hashes": {
+    "index.html": "a8c0ddeca780e9522e62ddce48b1ca951068944ff05731bd9d633871c5803f3e",
+    "sitemap.xml": "4afcb2a9d1d706532ac09dd417fa09ae974c9319b3c68d2620dbc7eb9fcc52af",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3ee413df63e8ae804ad3207bacb905fa531b0788c49be5f455b89c39259026e2",
+    "robots.txt": "2d2f26818dee958f6450c03bdc7ee603bcdb33b0b8a8fc546033d71a0587545e",
+    "3a3d4bf9fe41b1e4582784077ad983cb.txt": "0b83bcbd728880e198713f0e3d6b28f5ea7aee95a7139b2098315b8a37da106a"
+  },
+  "revision": "03b6f0ce27a087af99b2f54178bf7f74f02662fce1a964b2cf8f04b0b0eb097c"
+}

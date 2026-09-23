@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shadowrocketxo.com/sitemap.xml
